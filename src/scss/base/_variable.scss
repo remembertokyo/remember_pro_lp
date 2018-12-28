@@ -1,0 +1,24 @@
+// font
+// ----------------------------
+$font-family: "Helvetica Neue", "ms pgothic", "hiragino kaku gothic pro", "meiryo", "verdana", "osaka", "sans-serif";
+
+
+// break point
+// ----------------------------
+$bp: (
+    xs: 480px,
+    sm: 600px,
+    md: 960px,
+    lg: 1280px
+);
+
+// colors
+// ----------------------------
+
+$main-color:        #185ea4;
+$sub-color:         #a1c3e6;
+$accent-color:      #fc7367;
+$black:             #1f2933;
+$gray:              #f0f0f0;
+$white:             #fff;
+$thin-blue:         #effaff;
