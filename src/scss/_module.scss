@@ -1,6 +1,3 @@
-body {
-  font-family: $font-family;
-}
 .SpOnly {
   display: none;
   @media screen and (max-width: map-get($bp, "sm")) {
