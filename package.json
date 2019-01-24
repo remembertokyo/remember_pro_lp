@@ -1,0 +1,31 @@
+{
+  "name": "remember_pro_lp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-pug": "^4.0.1",
+    "gulp-svgmin": "^1.2.4",
+    "gulp-sass": "^4.0.2",
+    "gulp-watch": "^5.0.1",
+    "imagemin": "^6.1.0",
+    "imagemin-gifsicle": "^5.2.0",
+    "imagemin-jpeg-recompress": "^5.1.0",
+    "imagemin-pngquant": "^6.0.1",
+    "plumber": "^0.4.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remembertokyo/remember_pro_lp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/remembertokyo/remember_pro_lp/issues"
+  },
+  "homepage": "https://github.com/remembertokyo/remember_pro_lp#readme"
+}
